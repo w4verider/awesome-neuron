@@ -10,12 +10,16 @@ A nice place for beginning your git adventure.
 ## UX
 
 ## Swift
-- UI components
+- UI
+  - UI collections
+    - [iOS Example](https://iosexample.com/) A nice collection of examples done in Obj-C and Swift.
   - Tab Bar
   
 
 ## UI inspiration
-
+- [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
+- [UpLabs](https://www.uplabs.com/ios) Another great collection of UIs with option to download sources.
 ## Sketch
 
-
+## Learning
+- [Code.org](https://code.org/) Great place for starters in coding, especially for my kid.
