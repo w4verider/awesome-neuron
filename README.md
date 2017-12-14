@@ -10,7 +10,9 @@ A nice place for beginning your git adventure.
 ## UX
 
 ## Swift
-* UI components
+- UI components
+  - Tab Bar
+  
 
 ## UI inspiration
 
