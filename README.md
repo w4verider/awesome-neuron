@@ -14,6 +14,8 @@ A nice place for beginning your git adventure.
   - UI collections
     - [iOS Example](https://iosexample.com/) A nice collection of examples done in Obj-C and Swift.
   - Tab Bar
+  - Animation
+    - [Hero](https://github.com/lkzhao/Hero) A library for building iOS view controller transitions.
   
 
 ## UI inspiration
