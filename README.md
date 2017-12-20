@@ -23,5 +23,8 @@ A nice place for beginning your git adventure.
 - [UpLabs](https://www.uplabs.com/ios) Another great collection of UIs with option to download sources.
 ## Sketch
 
+## AI
+- [Turi Create](https://github.com/apple/turicreate) Simplifies the creation of machine learning models.
+
 ## Learning
 - [Code.org](https://code.org/) Great place for starters in coding, especially for my kid.
