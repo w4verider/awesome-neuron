@@ -14,6 +14,8 @@ A nice place for beginning your git adventure.
   - UI collections
     - [iOS Example](https://iosexample.com/) A nice collection of examples done in Obj-C and Swift.
   - Tab Bar
+  - Slider
+    - [fluid-slider] (https://github.com/Ramotion/fluid-slider) A slider widget with a popup bubble displaying the precise value selected.
   - Animation
     - [Hero](https://github.com/lkzhao/Hero) A library for building iOS view controller transitions.
 - JSON
