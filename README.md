@@ -22,19 +22,19 @@ A nice place for beginning your git adventure.
   - Tab Bar
     - [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) Swift UI module for adding animation to tabbar items.
   - TextField
-    - [PasswordTextField] (https://github.com/PiXeL16/PasswordTextField) A custom TextField with a button for showing or hidding the password text.
+    - [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) A custom TextField with a button for showing or hidding the password text.
   - Slider
-    - [fluid-slider] (https://github.com/Ramotion/fluid-slider) A slider widget with a popup bubble displaying the precise value selected.
+    - [fluid-slider](https://github.com/Ramotion/fluid-slider) A slider widget with a popup bubble displaying the precise value selected.
   - Animation
     - [Hero](https://github.com/lkzhao/Hero) A library for building iOS view controller transitions.
-    - [Material Motion] (https://github.com/material-motion/material-motion-swift) Nice toolkit for building responsive motion effects using Core Animation.
+    - [Material Motion](https://github.com/material-motion/material-motion-swift) Nice toolkit for building responsive motion effects using Core Animation.
   - Effects
-    - [Pastel] (https://github.com/cruisediary/Pastel) Nice background gradient animation like Instagram.
-    - [Folding Cell] (https://github.com/Ramotion/folding-cell).
-    - [Expanding Collection] (https://github.com/Ramotion/expanding-collection) An animated card peek/pop controller.
+    - [Pastel](https://github.com/cruisediary/Pastel) Nice background gradient animation like Instagram.
+    - [Folding Cell](https://github.com/Ramotion/folding-cell).
+    - [Expanding Collection](https://github.com/Ramotion/expanding-collection) An animated card peek/pop controller.
 - JSON
-  - [quicktype] (https://github.com/quicktype/quicktype-xcode) Xcode extension to paste JSON as Swift.
-  - [json2swift] (https://github.com/ijoshsmith/json2swift) A macOS command line tool that generates excellent Swift data models based on JSON data.
+  - [quicktype](https://github.com/quicktype/quicktype-xcode) Xcode extension to paste JSON as Swift.
+  - [json2swift](https://github.com/ijoshsmith/json2swift) A macOS command line tool that generates excellent Swift data models based on JSON data.
 
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
@@ -47,4 +47,4 @@ A nice place for beginning your git adventure.
 
 ## Learning
 - [Code.org](https://code.org/) Great place for starters in coding, especially for my kid.
-- [15 Days of Animations in Swift] (https://github.com/larrynatalicio/15DaysofAnimationsinSwift) Project with example code to learn animations.
+- [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) Project with example code to learn animations.
