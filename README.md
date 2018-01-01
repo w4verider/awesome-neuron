@@ -23,6 +23,7 @@ A nice place for beginning your git adventure.
     - [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) Swift UI module for adding animation to tabbar items.
   - TextField
     - [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) A custom TextField with a button for showing or hidding the password text.
+    - [A bigger center UITabBarItem](https://stackoverflow.com/questions/30527738/how-do-we-create-a-bigger-center-uitabbar-item) Discussion on how to create a bigger center tab bar item.
   - Slider
     - [fluid-slider](https://github.com/Ramotion/fluid-slider) A slider widget with a popup bubble displaying the precise value selected.
   - Animation
