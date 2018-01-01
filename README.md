@@ -11,16 +11,16 @@ A nice place for beginning your git adventure.
 
 ## Swift
 - Playgrounds
-  - [Awesome Swift Playgrounds] (https://github.com/uraimo/Awesome-Swift-Playgrounds) A list of Awesome Swift Playgrounds.
+  - [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) A list of Awesome Swift Playgrounds.
 - Software Engineering
-  - [Design Patterns in Swift] (https://github.com/ochococo/Design-Patterns-In-Swift) Swift implementation of well known design patterns.
-  - [Swift Algorithm Club] (https://github.com/raywenderlich/swift-algorithm-club) Swift implementation of popular data structures and algorithm with detailed explanations on how they work.
+  - [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) Swift implementation of well known design patterns.
+  - [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) Swift implementation of popular data structures and algorithm with detailed explanations on how they work.
   
 - UI
   - UI collections
     - [iOS Example](https://iosexample.com/) A nice collection of examples done in Obj-C and Swift.
   - Tab Bar
-    - [Animated Tab Bar] (https://github.com/Ramotion/animated-tab-bar) Swift UI module for adding animation to tabbar items.
+    - [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) Swift UI module for adding animation to tabbar items.
   - TextField
     - [PasswordTextField] (https://github.com/PiXeL16/PasswordTextField) A custom TextField with a button for showing or hidding the password text.
   - Slider
