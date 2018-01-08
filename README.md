@@ -44,6 +44,10 @@ A nice place for beginning your git adventure.
 - JSON
   - [quicktype](https://github.com/quicktype/quicktype-xcode) Xcode extension to paste JSON as Swift.
   - [json2swift](https://github.com/ijoshsmith/json2swift) A macOS command line tool that generates excellent Swift data models based on JSON data.
+  
+- OAuth
+  - [aerogear-ios-oauth2](https://github.com/aerogear/aerogear-ios-oauth2) Client library for OAuth2/OpenID Connect https://aerogear.org .
+  - [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) Swift based OAuth library for iOS.
 
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
