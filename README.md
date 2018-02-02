@@ -7,7 +7,9 @@ and [![Language](https://awesomelinkcounter.herokuapp.com/swift)](https://github
 [GitHub Guides](https://guides.github.com/)
 A nice place for beginning your git adventure.
 
-## UX
+## UX/UI Design
+-Sketch
+  - [Keys for Sketch](https://github.com/exevil/Keys-For-Sketch) Shortcuts manager for Sketch app.
 
 ## Swift
 - Playgrounds
@@ -52,8 +54,6 @@ A nice place for beginning your git adventure.
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
 - [UpLabs](https://www.uplabs.com/ios) Another great collection of UIs with option to download sources.
-
-## Sketch
 
 ## AI
 - [Turi Create](https://github.com/apple/turicreate) Simplifies the creation of machine learning models.
