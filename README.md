@@ -62,6 +62,7 @@ A nice place for beginning your git adventure.
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
 - [UpLabs](https://www.uplabs.com/ios) Another great collection of UIs with option to download sources.
+- [Animated login avatar](https://codepen.io/dsenneff/pen/QajVxO) Altough not in swift I love the idea for implementing it in an iOS inteface.
 
 ## AI
 - [Turi Create](https://github.com/apple/turicreate) Simplifies the creation of machine learning models.
@@ -70,3 +71,11 @@ A nice place for beginning your git adventure.
 ## Learning
 - [Code.org](https://code.org/) Great place for starters in coding, especially for my kid.
 - [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) Project with example code to learn animations.
+- [iOS example](https://iosexample.com/) A nice collection of often useful examples done in Objective-C and Swift.
+
+## Blogs I usually visit
+- [Useyouloaf](https://useyourloaf.com/) 
+- [WeHeartSwift](https://www.weheartswift.com/) Great tutorials and articles to learn and deeping you swift knoledge.
+- [iOSDevWeekly](http://iosdevweekly.com/) Dave Verwer hand picked weekly ios related links. Great newsletter.
+- [NatashaTheRobot](https://swiftnews.curated.co/issues/) Lately not being updated but worth viewing the archive.
+
