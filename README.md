@@ -43,6 +43,10 @@ A nice place for beginning your git adventure.
     - [Folding Cell](https://github.com/Ramotion/folding-cell).
     - [Expanding Collection](https://github.com/Ramotion/expanding-collection) An animated card peek/pop controller.
     
+  - Image support
+    - [Macaw](https://github.com/exyte/Macaw) Vector graphics swift library with svg support.
+    - [SwiftyGif](https://github.com/kirualex/SwiftyGif) Gif engine to display animated gif.
+    
 - JSON
   - [quicktype](https://github.com/quicktype/quicktype-xcode) Xcode extension to paste JSON as Swift.
   - [json2swift](https://github.com/ijoshsmith/json2swift) A macOS command line tool that generates excellent Swift data models based on JSON data.
@@ -50,6 +54,10 @@ A nice place for beginning your git adventure.
 - OAuth
   - [aerogear-ios-oauth2](https://github.com/aerogear/aerogear-ios-oauth2) Client library for OAuth2/OpenID Connect https://aerogear.org .
   - [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) Swift based OAuth library for iOS.
+  
+- Logging
+  - [JustLog](https://github.com/justeat/JustLog) Nice log framework.
+  - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) Another nice log framework with coloring support.
 
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
