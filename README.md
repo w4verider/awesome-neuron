@@ -60,6 +60,9 @@ A nice place for beginning your git adventure.
   - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) Another nice log framework with coloring support.
   - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) Fast and simple log framework for Mac and iOS.
 
+- Localization/i18n
+  - [Laurine](https://github.com/JiriTrecak/Laurine) Swift script for generating localized code.
+
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
 - [UpLabs](https://www.uplabs.com/ios) Another great collection of UIs with option to download sources.
