@@ -58,6 +58,7 @@ A nice place for beginning your git adventure.
 - Logging
   - [JustLog](https://github.com/justeat/JustLog) Nice log framework.
   - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) Another nice log framework with coloring support.
+  - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) Fast and simple log framework for Mac and iOS.
 
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
