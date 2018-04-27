@@ -68,9 +68,13 @@ A nice place for beginning your git adventure.
 - [UpLabs](https://www.uplabs.com/ios) Another great collection of UIs with option to download sources.
 - [Animated login avatar](https://codepen.io/dsenneff/pen/QajVxO) Altough not in swift I love the idea for implementing it in an iOS inteface.
 
-## AI
+## AI/ML
 - [Turi Create](https://github.com/apple/turicreate) Simplifies the creation of machine learning models.
 - [Intro to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/) A brief explanation on how to use the Natural Language Processing Class.
+- [Fantastic Machine Learning](https://github.com/onmyway133/fantastic-machine-learning) This is the list for CoreML resources!
+
+## ARKit
+- [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) A curated list of all ARKit resources.
 
 ## Learning
 - [Code.org](https://code.org/) Great place for starters in coding, especially for my kid.
