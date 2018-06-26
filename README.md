@@ -18,7 +18,11 @@ A nice place for beginning your git adventure.
 - Software Engineering
   - [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) Swift implementation of well known design patterns.
   - [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) Swift implementation of popular data structures and algorithm with detailed explanations on how they work.
-  
+
+- Media
+  - Streaming
+    - [FreeStreamer](https://github.com/muhku/FreeStreamer) Low memory footprint streaming player for iOS.
+ 
 - UI
   - UI collections
     - [Cocoa Components](https://www.cocoacontrols.com/) A huge collection of custom controls for iOS, macOS.
