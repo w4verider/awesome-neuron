@@ -11,6 +11,8 @@ A nice place for beginning your git adventure.
 -Sketch
   - [Keys for Sketch](https://github.com/exevil/Keys-For-Sketch) Shortcuts manager for Sketch app.
 
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+
 ## Swift
 - Playgrounds
   - [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) A list of Awesome Swift Playgrounds.
