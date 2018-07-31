@@ -68,6 +68,9 @@ A nice place for beginning your git adventure.
 
 - Localization/i18n
   - [Laurine](https://github.com/JiriTrecak/Laurine) Swift script for generating localized code.
+  
+- Networking/BLE
+  - [BlueCap](https://github.com/troystribling/BlueCap) BLE framework.
 
 ## UI inspiration
 - [Collect UI](http://collectui.com/designs) Daily inspiration collected from UIs.
