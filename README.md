@@ -14,6 +14,9 @@ A nice place for beginning your git adventure.
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 
 ## Swift
+- General
+  - [Open Source Swift Apps](https://github.com/dkhamsing/open-source-ios-apps) List of open source apps written in swift.
+  
 - Playgrounds
   - [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) A list of Awesome Swift Playgrounds.
   
@@ -95,4 +98,7 @@ A nice place for beginning your git adventure.
 - [WeHeartSwift](https://www.weheartswift.com/) Great tutorials and articles to learn and deeping you swift knoledge.
 - [iOSDevWeekly](http://iosdevweekly.com/) Dave Verwer hand picked weekly ios related links. Great newsletter.
 - [NatashaTheRobot](https://swiftnews.curated.co/issues/) Lately not being updated but worth viewing the archive.
+
+## Articles worth reading
+- [Refactoring Massive App Delegate](http://www.vadimbulavin.com/refactoring-massive-app-delegate/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B364)
 
