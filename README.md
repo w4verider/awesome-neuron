@@ -16,6 +16,7 @@ A nice place for beginning your git adventure.
 ## Swift
 - General
   - [Open Source Swift Apps](https://github.com/dkhamsing/open-source-ios-apps) List of open source apps written in swift.
+  - [Open Source Packages authored by Apple](https://swiftpackageindex.com/apple) List of open source packages maintained by Apple
   
 - Playgrounds
   - [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) A list of Awesome Swift Playgrounds.
